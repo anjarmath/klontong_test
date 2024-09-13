@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53826749996",
+    "project_id": "klontong-platform",
+    "storage_bucket": "klontong-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53826749996:android:50c5fdca7ad0d3383bb389",
+        "android_client_info": {
+          "package_name": "com.example.klontong_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoDYEszXn7Jx3thaGFQv8cgB8vrnjosJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

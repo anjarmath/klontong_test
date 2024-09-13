@@ -1,0 +1,14 @@
+{
+    "_id": "test",
+    "categoryId": "test",
+    "categoryName": "test",
+    "sku": "test",
+    "name": "test",
+    "description": "test",
+    "weight": 1.0,
+    "width": 1.0,
+    "length": 1.0,
+    "height": 1.0,
+    "image": "test",
+    "harga": 1000
+  }

@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"klontong-platform","appId":"1:53826749996:android:50c5fdca7ad0d3383bb389","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"klontong-platform","configurations":{"android":"1:53826749996:android:50c5fdca7ad0d3383bb389","ios":"1:53826749996:ios:31153da0bb7becd73bb389"}}}}}}
